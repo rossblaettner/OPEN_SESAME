@@ -1,0 +1,37 @@
+Domain (FQDN) & Current User
+Domain Server(s)
+
+(All) Open Processes & Metadata & Hashes
+Date @ Time
+
+Project | Role | User | Collaborator | Expiration/Validity-Range(s)
+
+Sharing...
+Yubikey Serial
+
+500 "next" iterations
+Try: next, next, next; Remove/Add ## accordingly
+
+"Users" have public and private "keys" for SHARING?
+
+Lock to:
+A KEY FILE - 30
+THIS COMPUTER - 25 **
+THIS "NETWORK" - 10 **
+THIS DOMAIN - 20 **
+MY LOGIN (DOMAIN + CURRENT USER ID) - 15 **
+(MY EMAIL?)
+USB 'ONE-TIME' (challenge-response) TOKEN - 35
+A (GOOD) PASSWORD - 25 (range) **
+MY DOMAIN + USER AUTH (require current network password) - 75
+MY IP ADDRESS - 10 **
+MY PIN # - 15 **
+
+IP ADDRESS - 10
+"NETWORK" - 10
+LOGIN - 15
+KEY FILE - 30
+THIS DOMAIN - 20
+
+
+75
