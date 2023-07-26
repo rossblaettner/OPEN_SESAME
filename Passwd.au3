@@ -210,7 +210,7 @@ EndIf
 			   ; IniWrite( $prefsFile, $sectionName, "win-title", cryptSign( $sectionName, $ieWinTitle ) )
 			   IniWrite( $prefsFile, $sectionName, "url-subst", cryptSign( $sectionName, "https://ihub.ascension.org/login/login.html" ) )
 			   IniWrite( $prefsFile, $sectionName, "passwd-id", cryptSign( $sectionName, "pt-login-password-textbox" ) )
-			   IniWrite( $prefsFile, $sectionName, "passwd-val", cryptSign( $sectionName, "Mcc350jxa!!" ) )
+			   IniWrite( $prefsFile, $sectionName, "passwd-val", cryptSign( $sectionName, "***example-password***" ) )
 			   IniWrite( $prefsFile, $sectionName, "usernm-id", cryptSign( $sectionName, "pt-login-username-textbox" ) )
 			   IniWrite( $prefsFile, $sectionName, "usernm-val", cryptSign( $sectionName, "rblaettn" ) )
 			   IniWrite( $prefsFile, $sectionName, "submit-id", cryptSign( $sectionName, "btnSubmit" ) )
